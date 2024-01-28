@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/apple-and-orange/problem
+*/
+
 'use strict';
 
 process.stdin.resume();

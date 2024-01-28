@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/diagonal-difference/problem
+*/
+
 'use strict';
 
 const fs = require('fs');

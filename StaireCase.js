@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/staircase/problem
+*/
+
 'use strict';
 
 process.stdin.resume();
